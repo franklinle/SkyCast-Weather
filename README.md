@@ -1,1 +1,1 @@
-# weatherApp
+# SkyCast Weather Application
